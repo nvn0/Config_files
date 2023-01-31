@@ -17,7 +17,7 @@ alias p='pgrep'
 
 alias ..='cd ..'
 
-mkdir='mkdir -pv'
+alias mkdir='mkdir -pv'
 
 alias update='sudo apt update && sudo apt upgrade -y'
 
