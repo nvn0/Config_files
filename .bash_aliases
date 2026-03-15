@@ -22,3 +22,7 @@ alias mkdir='mkdir -pv'
 alias update='sudo apt update && sudo apt upgrade -y'
 
 alias clean='sudo apt autoremove -y && sudo apt autoclean'
+
+alias cls="clear"
+alais cp="cp -i"
+alias mkdir="mkdir -p"
