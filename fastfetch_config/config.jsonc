@@ -4,12 +4,6 @@
     "title",
     "separator",
     "os",
-    {
-      "type": "disk",
-      "key": "OS Age",
-      "folders": "/",
-      "format": "{days} days ({create-time:10})"
-    },
     "host",
     "kernel",
     "uptime",
@@ -34,6 +28,12 @@
     "battery",
     "poweradapter",
     "locale",
+    {
+      "type": "disk",
+      "key": "OS Age",
+      "folders": "/",
+      "format": "{days} days ({create-time:10})"
+    },
     "break",
     "colors"
   ]
